@@ -1,0 +1,17 @@
+#para{
+    background-color: teal;
+    transition: 1s;
+    font-family: poppins;
+    padding: 7px;
+}
+
+#para:hover{
+    color: whitesmoke;
+    padding: 40px;
+    cursor: pointer;
+    background-color: rgb(187, 115, 207);
+    transition: 1s;
+    margin: 30px;
+    border-radius: 10px;
+}
+
